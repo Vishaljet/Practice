@@ -1,3 +1,4 @@
 # Practice
 practicing git commands 
-Author :Vishal Pai
+<br>
+<b>Author :Vishal Pai</b>
